@@ -2,3 +2,27 @@
 2019-04-01 15:30:44,502 INFO 7276 [egg-schedule]: register schedule /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
 2019-04-01 15:30:45,477 INFO 7271 [Timer] /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js next time will execute after 30554529ms at 2019-04-02 00:00:00.006
 2019-04-01 15:30:45,479 INFO 7271 [Timer] /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30555522ms at 2019-04-02 00:00:01.001
+2019-04-03 10:54:40,438 INFO 2463 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 10:54:40,438 INFO 2463 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 10:54:41,496 INFO 2462 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js next time will execute after 47118506ms at 2019-04-04 00:00:00.002
+2019-04-03 10:54:41,496 INFO 2462 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 47119504ms at 2019-04-04 00:00:01.000
+2019-04-03 11:05:37,192 INFO 2602 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 11:05:37,192 INFO 2602 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 11:07:23,439 INFO 2666 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 11:07:23,439 INFO 2666 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 11:07:58,031 INFO 2684 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 11:07:58,032 INFO 2684 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 11:08:04,237 INFO 2698 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 11:08:04,237 INFO 2698 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 11:09:02,598 INFO 2753 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-03 11:09:02,598 INFO 2753 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 13:30:39,858 INFO 4159 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-03 13:30:39,858 INFO 4159 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 13:30:40,345 INFO 4158 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 37759658ms at 2019-04-04 00:00:00.003
+2019-04-03 13:30:40,345 INFO 4158 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 37760655ms at 2019-04-04 00:00:01.000
+2019-04-03 14:30:00,593 INFO 4843 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-03 14:30:00,593 INFO 4843 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-03 14:30:01,440 INFO 4842 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute after 34198562ms at 2019-04-04 00:00:00.002
+2019-04-03 14:30:01,440 INFO 4842 [Timer] /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 34199560ms at 2019-04-04 00:00:01.000
+2019-04-03 14:41:05,004 INFO 4979 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/clean_log.js
+2019-04-03 14:41:05,004 INFO 4979 [egg-schedule]: register schedule /Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/app/schedule/rotate_by_file.js

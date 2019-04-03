@@ -21,7 +21,7 @@
                             label="手机号码"
                             placeholder="仅注册需要"
                             class="sms"
-                            type='number'
+                            type='text'
                             maxlength='11'
                         >
                         </van-field>
@@ -34,7 +34,7 @@
                             label="短信验证码"
                             placeholder="仅注册需要"
                             class="sms"
-                            maxlength='4'
+                            maxlength='6'
                         >
                             <van-button slot="button" size="small" type="primary" v-if="!retry" @click="sendCode">发送验证码</van-button>
                             <van-button slot="button" disabled type="primary" v-else size="small">{{retry}}秒后再试</van-button>

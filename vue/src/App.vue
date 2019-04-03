@@ -66,6 +66,7 @@ export default {
 };
 </script>
 <style>
+* { touch-action: pan-y; } 
 #app {
     width: 100%;
     height: 100%;

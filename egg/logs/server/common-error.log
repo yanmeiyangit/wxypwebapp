@@ -1,0 +1,140 @@
+2019-04-03 14:38:15,493 ERROR 4843 [-/127.0.0.1/-/10ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273495488aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273495488aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273495488aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:23,910 ERROR 4843 [-/127.0.0.1/-/10ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273503908aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273503908aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273503908aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:24,440 ERROR 4843 [-/127.0.0.1/-/9ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504439aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504439aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273504439aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:24,701 ERROR 4843 [-/127.0.0.1/-/8ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504699aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504699aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273504699aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:24,956 ERROR 4843 [-/127.0.0.1/-/8ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504954aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273504954aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273504954aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:25,170 ERROR 4843 [-/127.0.0.1/-/10ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273505167aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273505167aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273505167aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:38:25,370 ERROR 4843 [-/127.0.0.1/-/7ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273505369aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273505369aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273505369aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:39:01,235 ERROR 4843 [-/127.0.0.1/-/11ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273541233aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273541233aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273541233aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:41:45,024 ERROR 4843 [-/127.0.0.1/-/8ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273705022aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554273705022aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554273705022aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:55:04,125 ERROR 4843 [-/127.0.0.1/-/10ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554274504122aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554274504122aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554274504122aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 14:55:05,851 ERROR 4843 [-/127.0.0.1/-/9ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554274505849aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554274505849aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554274505849aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 16:30:02,966 ERROR 4843 [-/127.0.0.1/-/19ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554280202953aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554280202953aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554280202953aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 16:42:08,410 ERROR 4843 [-/127.0.0.1/-/9ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554280928407aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554280928407aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554280928407aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+
+2019-04-03 16:53:58,347 ERROR 4843 [-/127.0.0.1/-/14ms POST /v1/saveUser] nodejs.ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554281638342aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+ENOENTError: ENOENT: no such file or directory, open 'app/public/avatar/1554281638342aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png'
+errno: -2
+code: "ENOENT"
+syscall: "open"
+path: "app/public/avatar/1554281638342aag6a5gbb5_aaaa_bbg-5ca1c077778afa1c6ce2281a.png"
+name: "ENOENTError"
+pid: 4843
+hostname: MiadeMBP.lan
+

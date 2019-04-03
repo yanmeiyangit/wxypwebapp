@@ -68,7 +68,7 @@
     "onerror": {
       "errorPageUrl": "",
       "appErrorFilter": null,
-      "templatePath": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/lib/onerror_page.mustache"
+      "templatePath": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-onerror/lib/onerror_page.mustache"
     },
     "i18n": {
       "defaultLocale": "en_US",
@@ -80,8 +80,8 @@
     "watcher": {
       "type": "development",
       "eventSources": {
-        "default": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/default",
-        "development": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/lib/event-sources/development"
+        "default": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher/lib/event-sources/default",
+        "development": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher/lib/event-sources/development"
       }
     },
     "customLogger": {
@@ -127,14 +127,14 @@
     },
     "static": {
       "prefix": "/public/",
-      "dir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/app/public",
+      "dir": "/Users/mia/Documents/wxypwebapp/egg/app/public",
       "dynamic": true,
       "preload": false,
       "buffer": false,
       "maxFiles": 1000
     },
     "view": {
-      "root": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/app/view",
+      "root": "/Users/mia/Documents/wxypwebapp/egg/app/view",
       "cache": false,
       "defaultExtension": ".html",
       "defaultViewEngine": "",
@@ -155,7 +155,7 @@
       "open": "<Function open>"
     },
     "ejs": {
-      "root": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/app/view",
+      "root": "/Users/mia/Documents/wxypwebapp/egg/app/view",
       "cache": false,
       "debug": false,
       "compileDebug": true,
@@ -226,9 +226,9 @@
       "author": "",
       "license": "MIT"
     },
-    "baseDir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg",
+    "baseDir": "/Users/mia/Documents/wxypwebapp/egg",
     "HOME": "/Users/mia",
-    "rundir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/run",
+    "rundir": "/Users/mia/Documents/wxypwebapp/egg/run",
     "dump": {
       "ignore": "<Set>"
     },
@@ -258,7 +258,7 @@
       }
     },
     "logger": {
-      "dir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/logs/server",
+      "dir": "/Users/mia/Documents/wxypwebapp/egg/logs/server",
       "encoding": "utf8",
       "env": "local",
       "level": "INFO",
@@ -339,8 +339,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-session@3.1.0@egg-session",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-session",
       "version": "3.1.0"
     },
     "security": {
@@ -352,8 +352,8 @@
         "session"
       ],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security",
       "version": "2.5.0"
     },
     "jsonp": {
@@ -365,8 +365,8 @@
         "security"
       ],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jsonp",
       "version": "2.0.0"
     },
     "onerror": {
@@ -378,8 +378,8 @@
         "jsonp"
       ],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-onerror@2.1.0@egg-onerror",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-onerror",
       "version": "2.1.0"
     },
     "i18n": {
@@ -389,8 +389,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n",
       "version": "2.0.0"
     },
     "watcher": {
@@ -400,8 +400,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher",
       "version": "3.1.0"
     },
     "schedule": {
@@ -411,8 +411,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-schedule@3.6.1@egg-schedule",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-schedule",
       "version": "3.6.1"
     },
     "multipart": {
@@ -424,8 +424,8 @@
         "schedule"
       ],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart",
       "version": "2.4.0"
     },
     "development": {
@@ -439,8 +439,8 @@
       "env": [
         "local"
       ],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development",
       "version": "2.4.2"
     },
     "logrotator": {
@@ -452,8 +452,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator",
       "version": "3.0.7"
     },
     "static": {
@@ -463,8 +463,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static",
       "version": "2.2.0"
     },
     "view": {
@@ -474,8 +474,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view@2.1.2@egg-view",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view",
       "version": "2.1.2"
     },
     "mongoose": {
@@ -485,8 +485,8 @@
       "dependencies": [],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose",
       "version": "3.1.1"
     },
     "ejs": {
@@ -498,8 +498,8 @@
       ],
       "optionalDependencies": [],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs",
       "version": "2.0.0"
     },
     "jwt": {
@@ -511,8 +511,8 @@
         "onerror"
       ],
       "env": [],
-      "from": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/plugin.js",
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jwt@3.1.6@egg-jwt",
+      "from": "/Users/mia/Documents/wxypwebapp/egg/config/plugin.js",
+      "path": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jwt",
       "version": "3.1.6"
     }
   }

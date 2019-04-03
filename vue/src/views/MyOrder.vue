@@ -44,11 +44,11 @@
 import Scroll from 'public/Scroll'
 import {vuexData} from 'js/mixin'
 export default {
-    name: 'MyOarder',
+    name: 'MyOrder',
     mixins: [vuexData],
     data() {
         return {
-            currentActive: 0,
+            currentActive: 4,
             list: '',
             defaultImg: 'this.src="' + require('img/vue.jpg') + '"',
             tabs:['全部','待支付','待发货','待收货','已完成'],

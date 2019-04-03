@@ -1,316 +1,316 @@
 {
-  "keys": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-  "middleware": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
+  "keys": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+  "middleware": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
   "cluster": {
     "listen": {
-      "path": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-      "port": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-      "hostname": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js"
+      "path": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+      "port": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+      "hostname": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js"
     }
   },
   "view": {
     "mapping": {
-      ".html": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js"
+      ".html": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js"
     },
-    "root": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
-    "cache": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.local.js",
-    "defaultExtension": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js",
-    "defaultViewEngine": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view@2.1.2@egg-view/config/config.default.js"
+    "root": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view/config/config.default.js",
+    "cache": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view/config/config.local.js",
+    "defaultExtension": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view/config/config.default.js",
+    "defaultViewEngine": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view/config/config.default.js"
   },
   "mongoose": {
     "client": {
-      "url": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-      "options": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js"
+      "url": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+      "options": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js"
     },
-    "open": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "url": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose/config/config.default.js",
-    "options": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose/config/config.default.js",
-    "loadModel": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose/config/config.default.js",
-    "app": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose/config/config.default.js",
-    "agent": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-mongoose@3.1.1@egg-mongoose/config/config.default.js"
+    "open": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "url": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose/config/config.default.js",
+    "options": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose/config/config.default.js",
+    "loadModel": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose/config/config.default.js",
+    "app": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose/config/config.default.js",
+    "agent": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-mongoose/config/config.default.js"
   },
   "security": {
-    "csrf": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "domainWhiteList": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-    "protocolWhiteList": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-    "defaultMiddleware": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
+    "csrf": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "domainWhiteList": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+    "protocolWhiteList": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+    "defaultMiddleware": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
     "xframe": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "value": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "hsts": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.local.js",
-      "maxAge": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "includeSubdomains": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.local.js",
+      "maxAge": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "includeSubdomains": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "dta": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "methodnoallow": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "noopen": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "nosniff": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "referrerPolicy": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "value": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "xssProtection": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "value": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "value": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "csp": {
-      "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "policy": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "policy": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     },
     "ssrf": {
-      "ipBlackList": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js",
-      "checkAddress": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+      "ipBlackList": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js",
+      "checkAddress": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
     }
   },
   "session": {
-    "key": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "maxAge": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "overwrite": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "httpOnly": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "signed": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "rolling": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "renew": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "encrypt": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-session@3.1.0@egg-session/config/config.default.js"
+    "key": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "maxAge": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "overwrite": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "httpOnly": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "signed": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "rolling": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "renew": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "encrypt": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-session/config/config.default.js"
   },
   "bodyParser": {
-    "jsonLimit": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "encoding": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "formLimit": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "strict": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+    "jsonLimit": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "formLimit": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "strict": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
     "queryString": {
-      "arrayLimit": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "depth": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "parameterLimit": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "arrayLimit": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "depth": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "parameterLimit": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     }
   },
   "jwt": {
-    "secret": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-    "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jwt@3.1.6@egg-jwt/config/config.default.js"
+    "secret": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+    "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jwt/config/config.default.js"
   },
-  "url": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-  "uploadDir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
-  "secret": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config/config.default.js",
+  "url": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+  "uploadDir": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
+  "secret": "/Users/mia/Documents/wxypwebapp/egg/config/config.default.js",
   "helper": {
-    "shtml": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-security@2.5.0@egg-security/config/config.default.js"
+    "shtml": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-security/config/config.default.js"
   },
   "jsonp": {
-    "limit": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
-    "callback": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js",
-    "csrf": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-jsonp@2.0.0@egg-jsonp/config/config.default.js"
+    "limit": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jsonp/config/config.default.js",
+    "callback": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jsonp/config/config.default.js",
+    "csrf": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-jsonp/config/config.default.js"
   },
   "onerror": {
-    "errorPageUrl": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
-    "appErrorFilter": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js",
-    "templatePath": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-onerror@2.1.0@egg-onerror/config/config.default.js"
+    "errorPageUrl": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-onerror/config/config.default.js",
+    "appErrorFilter": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-onerror/config/config.default.js",
+    "templatePath": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-onerror/config/config.default.js"
   },
   "i18n": {
-    "defaultLocale": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "dirs": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "queryField": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "cookieField": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js",
-    "cookieMaxAge": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-i18n@2.0.0@egg-i18n/config/config.default.js"
+    "defaultLocale": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n/config/config.default.js",
+    "dirs": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n/config/config.default.js",
+    "queryField": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieField": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n/config/config.default.js",
+    "cookieMaxAge": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-i18n/config/config.default.js"
   },
   "watcher": {
-    "type": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.local.js",
+    "type": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher/config/config.local.js",
     "eventSources": {
-      "default": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js",
-      "development": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-watcher@3.1.0@egg-watcher/config/config.default.js"
+      "default": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher/config/config.default.js",
+      "development": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-watcher/config/config.default.js"
     }
   },
   "customLogger": {
     "scheduleLogger": {
-      "consoleLevel": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-schedule@3.6.1@egg-schedule/config/config.default.js",
-      "file": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-schedule@3.6.1@egg-schedule/config/config.default.js"
+      "consoleLevel": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-schedule/config/config.default.js",
+      "file": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-schedule/config/config.default.js"
     }
   },
   "schedule": {
-    "directory": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-schedule@3.6.1@egg-schedule/config/config.default.js"
+    "directory": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-schedule/config/config.default.js"
   },
   "multipart": {
-    "mode": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "autoFields": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "defaultCharset": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "fieldNameSize": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "fieldSize": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "fields": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "fileSize": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "files": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "fileExtensions": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "whitelist": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
-    "tmpdir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js",
+    "mode": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "autoFields": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "defaultCharset": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldNameSize": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "fieldSize": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "fields": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileSize": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "files": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "fileExtensions": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "whitelist": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
+    "tmpdir": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js",
     "cleanSchedule": {
-      "cron": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-multipart@2.4.0@egg-multipart/config/config.default.js"
+      "cron": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-multipart/config/config.default.js"
     }
   },
   "development": {
-    "watchDirs": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development/config/config.default.js",
-    "ignoreDirs": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development/config/config.default.js",
-    "fastReady": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development/config/config.default.js",
-    "reloadOnDebug": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development/config/config.default.js",
-    "overrideDefault": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-development@2.4.2@egg-development/config/config.default.js"
+    "watchDirs": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development/config/config.default.js",
+    "ignoreDirs": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development/config/config.default.js",
+    "fastReady": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development/config/config.default.js",
+    "reloadOnDebug": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development/config/config.default.js",
+    "overrideDefault": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-development/config/config.default.js"
   },
   "logrotator": {
-    "filesRotateByHour": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "hourDelimiter": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "filesRotateBySize": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "maxFileSize": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "maxFiles": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "rotateDuration": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js",
-    "maxDays": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/config/config.default.js"
+    "filesRotateByHour": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "hourDelimiter": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "filesRotateBySize": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFileSize": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxFiles": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "rotateDuration": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js",
+    "maxDays": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-logrotator/config/config.default.js"
   },
   "static": {
-    "prefix": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "dir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "dynamic": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "preload": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "buffer": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js",
-    "maxFiles": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-static@2.2.0@egg-static/config/config.default.js"
+    "prefix": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js",
+    "dir": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js",
+    "dynamic": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js",
+    "preload": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js",
+    "buffer": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js",
+    "maxFiles": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-static/config/config.default.js"
   },
   "ejs": {
-    "root": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
-    "cache": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.local.js",
-    "debug": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
-    "compileDebug": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
-    "delimiter": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js",
-    "strict": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-view-ejs@2.0.0@egg-view-ejs/config/config.default.js"
+    "root": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.default.js",
+    "cache": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.local.js",
+    "debug": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.default.js",
+    "compileDebug": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.default.js",
+    "delimiter": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.default.js",
+    "strict": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg-view-ejs/config/config.default.js"
   },
-  "env": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "name": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "proxy": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "protocolHeaders": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "ipHeaders": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "hostHeaders": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+  "env": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "name": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "proxy": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "protocolHeaders": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "ipHeaders": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "hostHeaders": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
   "pkg": {
-    "name": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "version": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "description": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "private": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+    "name": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "version": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "description": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "private": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
     "dependencies": {
-      "egg": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-cors": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-jwt": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-mongoose": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-scripts": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-view-ejs": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "md5": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "mz-modules": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "request": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "silly-datetime": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "svg-captcha": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "egg": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-cors": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-jwt": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-mongoose": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-scripts": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-view-ejs": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "md5": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "mz-modules": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "request": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "silly-datetime": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "svg-captcha": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "devDependencies": {
-      "autod": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "autod-egg": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-bin": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-ci": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "egg-mock": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "eslint": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "eslint-config-egg": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "webstorm-disable-index": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "autod": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "autod-egg": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-bin": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-ci": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "egg-mock": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "eslint": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "eslint-config-egg": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "webstorm-disable-index": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "engines": {
-      "node": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "node": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "scripts": {
-      "start": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "stop": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "dev": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "debug": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "test": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "test-local": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "cov": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "lint": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "ci": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "autod": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "start": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "stop": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "dev": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "debug": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "test": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "test-local": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "cov": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "lint": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "ci": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "autod": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "ci": {
-      "version": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "version": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "repository": {
-      "type": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "url": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "type": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "url": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
-    "author": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "license": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "author": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "license": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
-  "baseDir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "HOME": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "rundir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+  "baseDir": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "HOME": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "rundir": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
   "dump": {
-    "ignore": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "ignore": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
   "confusedConfigurations": {
-    "bodyparser": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "notFound": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "sitefile": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "middlewares": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "httpClient": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "bodyparser": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "notFound": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "sitefile": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "middlewares": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "httpClient": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
   "notfound": {
-    "pageUrl": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "pageUrl": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
   "siteFile": {
-    "/favicon.ico": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "/favicon.ico": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
   "logger": {
-    "dir": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "encoding": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "env": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "level": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "consoleLevel": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "disableConsoleAfterReady": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "outputJSON": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "buffer": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "appLogName": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "coreLogName": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "agentLogName": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "errorLogName": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+    "dir": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "encoding": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "env": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "level": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "consoleLevel": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "disableConsoleAfterReady": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "outputJSON": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "buffer": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "appLogName": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "coreLogName": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "agentLogName": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "errorLogName": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
     "coreLogger": {
-      "consoleLevel": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.local.js"
+      "consoleLevel": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.local.js"
     },
-    "allowDebugAtProd": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "allowDebugAtProd": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
   "httpclient": {
-    "enableDNSCache": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "dnsCacheLookupInterval": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "dnsCacheMaxLength": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+    "enableDNSCache": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheLookupInterval": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "dnsCacheMaxLength": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
     "request": {
-      "timeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "timeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "httpAgent": {
-      "keepAlive": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "maxSockets": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "maxFreeSockets": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "keepAlive": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     },
     "httpsAgent": {
-      "keepAlive": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "freeSocketTimeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "maxSockets": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-      "maxFreeSockets": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+      "keepAlive": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "freeSocketTimeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "maxSockets": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+      "maxFreeSockets": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
     }
   },
   "meta": {
-    "enable": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "logging": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "enable": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "logging": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
-  "coreMiddleware": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "workerStartTimeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-  "serverTimeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
+  "coreMiddleware": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "workerStartTimeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+  "serverTimeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
   "clusterClient": {
-    "maxWaitTime": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js",
-    "responseTimeout": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+    "maxWaitTime": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js",
+    "responseTimeout": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
   },
-  "onClientError": "/Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg@2.20.2@egg/config/config.default.js"
+  "onClientError": "/Users/mia/Documents/wxypwebapp/egg/node_modules/egg/config/config.default.js"
 }

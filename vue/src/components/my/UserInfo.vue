@@ -5,7 +5,7 @@
             <p @click="github">
                 <van-field
                     class="border-bottom"
-                    value="https://github.com/yzbgyq/Vue-shopping"
+                    value="https://github.com/yanmeiyangit/wxypwebapp"
                     disabled
                     clearable
                     label="github"
@@ -134,7 +134,7 @@ export default {
             }, 300);
         },
         github() {
-            window.open("https://github.com/yzbgyq/Vue-shopping", "_blank");
+            window.open("https://github.com/yanmeiyangit/wxypwebapp", "_blank");
         },
         callback(img) {
             this.tempAvatar = img;
