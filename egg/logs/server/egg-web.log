@@ -1,0 +1,17 @@
+2019-04-01 15:30:44,474 INFO 7276 [egg:logger] init all loggers with options: {"dir":"/Users/mia/Documents/wxypapp/Vue-shopping/egg/logs/server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"application"}
+2019-04-01 15:30:44,503 INFO 7276 [egg-multipart] stream mode enable
+2019-04-01 15:30:45,095 INFO 7276 [egg-mongoose] connecting mongodb://127.0.0.1/shoppingMall
+2019-04-01 15:30:45,343 INFO 7276 [egg-static] starting static serve /public/ -> /Users/mia/Documents/wxypapp/Vue-shopping/egg/app/public
+2019-04-01 15:30:45,346 INFO 7276 [egg-security] use methodnoallow middleware
+2019-04-01 15:30:45,347 INFO 7276 [egg-security] use noopen middleware
+2019-04-01 15:30:45,348 INFO 7276 [egg-security] use nosniff middleware
+2019-04-01 15:30:45,349 INFO 7276 [egg-security] use xssProtection middleware
+2019-04-01 15:30:45,350 INFO 7276 [egg-security] use xframe middleware
+2019-04-01 15:30:45,350 INFO 7276 [egg-security] use dta middleware
+2019-04-01 15:30:45,351 INFO 7276 [egg-security] compose 6 middlewares into one security middleware
+2019-04-01 15:30:45,369 INFO 7276 [egg:core] dump config after load, 5ms
+2019-04-01 15:30:45,371 INFO 7276 [egg-mongoose] starting...
+2019-04-01 15:30:45,403 INFO 7276 [egg-mongoose] mongodb://127.0.0.1/shoppingMall connected successfully
+2019-04-01 15:30:45,408 INFO 7276 [egg-mongoose] instance[0] start successfully
+2019-04-01 15:30:45,410 INFO 7276 [egg-watcher:application] watcher start success
+2019-04-01 15:30:45,453 INFO 7276 [egg:core] dump config after ready, 33ms

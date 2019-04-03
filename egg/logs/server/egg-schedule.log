@@ -1,0 +1,4 @@
+2019-04-01 15:30:44,502 INFO 7276 [egg-schedule]: register schedule /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js
+2019-04-01 15:30:44,502 INFO 7276 [egg-schedule]: register schedule /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js
+2019-04-01 15:30:45,477 INFO 7271 [Timer] /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/clean_log.js next time will execute after 30554529ms at 2019-04-02 00:00:00.006
+2019-04-01 15:30:45,479 INFO 7271 [Timer] /Users/mia/Documents/wxypapp/Vue-shopping/egg/node_modules/_egg-logrotator@3.0.7@egg-logrotator/app/schedule/rotate_by_file.js next time will execute after 30555522ms at 2019-04-02 00:00:01.001

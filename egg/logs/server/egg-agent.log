@@ -1,0 +1,10 @@
+2019-04-01 15:30:43,701 INFO 7271 [egg:logger] init all loggers with options: {"dir":"/Users/mia/Documents/wxypapp/Vue-shopping/egg/logs/server","encoding":"utf8","env":"local","level":"INFO","consoleLevel":"INFO","disableConsoleAfterReady":false,"outputJSON":false,"buffer":true,"appLogName":"server-web.log","coreLogName":"egg-web.log","agentLogName":"egg-agent.log","errorLogName":"common-error.log","coreLogger":{"consoleLevel":"WARN"},"allowDebugAtProd":false,"type":"agent"}
+2019-04-01 15:30:43,828 INFO 7271 [egg:core] dump config after load, 6ms
+2019-04-01 15:30:43,862 INFO 7271 [egg-watcher] Start watching: ["/Users/mia/Documents/wxypapp/Vue-shopping/egg/app","/Users/mia/Documents/wxypapp/Vue-shopping/egg/config","/Users/mia/Documents/wxypapp/Vue-shopping/egg/mocks","/Users/mia/Documents/wxypapp/Vue-shopping/egg/mocks_proxy","/Users/mia/Documents/wxypapp/Vue-shopping/egg/app.js"]
+2019-04-01 15:30:43,862 INFO 7271 [egg-watcher] Start watching: "/Users/mia/Documents/wxypapp/Vue-shopping/egg/app"
+2019-04-01 15:30:43,863 INFO 7271 [egg-watcher] Start watching: "/Users/mia/Documents/wxypapp/Vue-shopping/egg/config"
+2019-04-01 15:30:43,863 INFO 7271 [egg-watcher] Start watching: "/Users/mia/Documents/wxypapp/Vue-shopping/egg/mocks"
+2019-04-01 15:30:43,863 INFO 7271 [egg-watcher] Start watching: "/Users/mia/Documents/wxypapp/Vue-shopping/egg/mocks_proxy"
+2019-04-01 15:30:43,863 INFO 7271 [egg-watcher] Start watching: "/Users/mia/Documents/wxypapp/Vue-shopping/egg/app.js"
+2019-04-01 15:30:43,863 INFO 7271 [egg-watcher:agent] watcher start success
+2019-04-01 15:30:43,876 INFO 7271 [egg:core] dump config after ready, 3ms
