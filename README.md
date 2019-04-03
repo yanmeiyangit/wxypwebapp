@@ -23,6 +23,13 @@
 ## 运行项目步骤：
 
 ##### 1：请确保node版本在8以上，本地安装好mongodb数据库并且打开连接
+	`cd /usr/local`
+	`export PATH=/usr/local/mongodb/bin:$PAT`
+	`cd /data/db`
+	`sudo mongod`
+	再打开一个终端进入执行以下命令：
+	`cd /usr/local/mongodb/bin`
+	`./mongo`
 
 ##### 2：进入 egg 目录，在此目录下打开cmd窗口运行 cnpm i 安装依赖,然后 npm run dev 启动本地服务,打开http://127.0.0.1:3000  会自动把数据导入数据库,第一次运行项目需要导入打开默认导入一次（会自动把json数据导入数据库，看到控制台打印成功才能运行）
 
