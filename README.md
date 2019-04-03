@@ -25,7 +25,7 @@
 ##### 1：请确保node版本在8以上，本地安装好mongodb数据库并且打开连接
 	`cd /usr/local`
 	`export PATH=/usr/local/mongodb/bin:$PAT`
-	`cd /data/db`
+	`sudo mkdir -p /data/db`
 	`sudo mongod`
 	再打开一个终端进入执行以下命令：
 	`cd /usr/local/mongodb/bin`
